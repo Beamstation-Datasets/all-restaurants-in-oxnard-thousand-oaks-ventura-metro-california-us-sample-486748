@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Oxnard-Thousand Oaks-Ventura (Metro), California metropolitan area, spanning Oxnard, Thousand Oaks, and Ventura. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Oxnard-Thousand Oaks-Ventura (Metro), California, US",
+  "export_job_id": "5810acd4-fe61-48a4-9635-8728e9332c44",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 486748,
+  "location_name": "Oxnard-Thousand Oaks-Ventura, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-oxnard-thousand-oaks-ventura-metro-california-us-sample-486748",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/486748/beamstation_486748_restaurants-us-oxnardthousandoaksventuraca_SAMPLE_DIST.csv",
+  "sample_pct": 4.4,
+  "sample_records": 25,
+  "sample_sha256": "cd4d0f5d1055ddc4ecbdeb8a4967b3f1334c38c5dd7b8af973c707b4c3d5b546",
+  "sample_size_bytes": 111606,
+  "total_records": 568,
+  "updated_at": "2026-03-31T13:34:55.085438+00:00"
+}
