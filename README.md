@@ -1,6 +1,6 @@
 # All Restaurants in Oxnard-Thousand Oaks-Ventura (Metro), California, US
 
-> Free BeamStation sample export with 75 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `486748` |
 | Location | Oxnard-Thousand Oaks-Ventura, CA |
 | Category | Restaurants |
-| Full dataset size | 751 records |
-| Free sample size | 75 records (9.99%) |
-| Last export | 2026-04-21T15:02:14.858131+00:00 |
+| Full dataset size | 369 records |
+| Free sample size | 36 records (9.76%) |
+| Last export | 2026-04-28T16:01:56.251838+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oxnard-thousand-oaks-ventura-metro-california-us-sample-486748/releases/download/sample-latest/beamstation_486748_restaurants-us-oxnardthousandoaksventuraca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
