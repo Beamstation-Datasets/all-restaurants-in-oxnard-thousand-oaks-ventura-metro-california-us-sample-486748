@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bfe17fa0-d426-479e-8347-453574defcea",
+  "export_job_id": "73387860-f681-4032-a75f-017499edf068",
   "id_short": 486748,
-  "published_at": "2026-04-28T19:49:28Z",
+  "published_at": "2026-05-06T19:19:21Z",
   "repo_name": "all-restaurants-in-oxnard-thousand-oaks-ventura-metro-california-us-sample-486748",
   "sample_asset_name": "beamstation_486748_restaurants-us-oxnardthousandoaksventuraca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/486748/beamstation_486748_restaurants-us-oxnardthousandoaksventuraca_SAMPLE_DIST.csv",
-  "sample_records": 36,
-  "sample_sha256": "f4e7e0726fb462c0da4ce2bdb9f9e947e4fe25b169ecc27b076aa1068fa1a40b",
-  "sample_size_bytes": 132215,
-  "total_records": 369
+  "sample_records": 77,
+  "sample_sha256": "528e0e163b03770254f40483af501f294d520d956ecb0d4a7ce72093169fac02",
+  "sample_size_bytes": 301077,
+  "total_records": 778
 }
